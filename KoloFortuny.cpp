@@ -111,7 +111,7 @@ int main()
     string rezultat;
 
     cout << "Jak nazywa sie 4 zawodnikow \n";
-    cin >> ilosc_graczy
+    cin >> ilosc_graczy;
     for(int z = 0 ; z < ilosc_graczy;z++){
         
         string imiona[ilosc_graczy];
